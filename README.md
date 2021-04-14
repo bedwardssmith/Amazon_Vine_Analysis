@@ -23,7 +23,7 @@
 <ul>
 <li>Of the 21 reviews posted by Vine members 10 of these were 5 star reviews; refer to image below.</li>
 </ul>
-<img src="https://github.com/bedwardssmith/Amazon_Vine_Analysis/blob/main/Resources/five_star_reviews_vine.png" alt="vine_5_star_reviews>
+<img src="https://github.com/bedwardssmith/Amazon_Vine_Analysis/blob/main/Resources/five_star_reviews_vine.png" alt="vine_5_star_reviews">
 <ul>
 <li>Of the 6,690 reviews posted by non-Vine members 3,448 of these were 5 star reviews; refer to image below.</li>
 </ul>
